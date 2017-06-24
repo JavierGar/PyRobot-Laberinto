@@ -1,2 +1,2 @@
 # PyRobot-Laberinto
-Implementacion en python para recorrer un laberinto con pyrobot
+Implementación en python para recorrer un laberinto con PyRobot
